@@ -1,0 +1,68 @@
+div {
+    font-family: Helvetica;
+    background-color: White;
+    color: Black;
+    font-size: 12px;
+    padding: 1px;
+    
+}
+
+#big_div {
+    display: flex;
+    
+}
+
+#M {
+    width: 60px
+}
+
+#Picture_1 {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.Meal {
+    width: 600px;
+    align-self: center;
+}
+
+.yellow {
+    background-color: yellow;
+    border-radius: 20px;
+    margin: auto;
+}
+
+h2 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+
+a {
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Food {
+    width: 500px;
+    align-self: center;
+    
+}
+
+.Picture_2 {
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    flex-direction: column;
+}
+
+img {
+    width: auto;
+    justify-content: center;
+    
+}
